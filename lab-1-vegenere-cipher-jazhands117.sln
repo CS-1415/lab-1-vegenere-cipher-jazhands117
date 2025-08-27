@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab-1-vegenere-cipher-jazhands117", "lab-1-vegenere-cipher-jazhands117.csproj", "{72F358F6-5993-BDA8-B341-9EAE059F0880}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72F358F6-5993-BDA8-B341-9EAE059F0880}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72F358F6-5993-BDA8-B341-9EAE059F0880}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72F358F6-5993-BDA8-B341-9EAE059F0880}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72F358F6-5993-BDA8-B341-9EAE059F0880}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD5C9420-C4B5-408E-9D2A-B8AC9C085A7A}
+	EndGlobalSection
+EndGlobal
